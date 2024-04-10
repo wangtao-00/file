@@ -188,4 +188,4 @@ if st.button("Combine Documents"):
 
 # Footer
 st.markdown("---")
-st.markdown("© 2024 Your Company Name. All rights reserved.")
+st.markdown("© 2024 ryy to 20240410. All rights reserved.")
