@@ -1,9 +1,9 @@
-import tkinter as tk
 from docx import Document
 import re
-from tkinter import filedialog, messagebox, Label
 import os
 import streamlit as st
+
+
 def extract_items(doc_path):
     doc = Document(doc_path)
     items = {}
